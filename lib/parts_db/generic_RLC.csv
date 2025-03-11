@@ -1,0 +1,10 @@
+Part Number,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Value,Tolerance
+Generic 0603 cap,capacitor.Schlib,capacitor,PCB - CAPACITOR - MLCC - CAP 0603_1608.PCBLIB,CAP 0603_1608,SMD 0603,C,
+Generic 0805 cap,capacitor.Schlib,capacitor,PCB - CAPACITOR - MLCC - CAP 0805_2012.PCBLIB,CAP 0805_2012,SMD 0805,C,
+Generic 1206cap,capacitor.Schlib,capacitor,PCB - CAPACITOR - MLCC - CAP 1206_3216 - 1.0MM.PCBLIB,CAP 1206_3216 - 1.0MM,SMD 1206,C,
+Generic 1210 cap,capacitor.Schlib,capacitor,PCB - CAPACITOR - MLCC - CAP 1210_3225 - 1.4MM.PCBLIB,CAP 1210_3225 - 1.4MM,SMD 1210,C,
+Generic 1812 cap,capacitor.Schlib,capacitor,PCB - CAPACITOR - MLCC - CAP 1812_4532 2.00MM.PCBLIB,PCB - CAPACITOR - MLCC - CAP 1812_4532 2.00MM.PCBLIB,SMD 1812,C,
+Generic 0603 res,Resistor_0603.Schlib,Resistor_0603,PCB - RESISTOR - CHIP - RES 0603_1608.PCBLIB,RES 0603_1608,SMD 0603,R,5%
+Generic 0805 res,Resistor_0805.Schlib,Resistor_0805,PCB - RESISTOR - CHIP - RES 0805_2012.PCBLIB,RES 0805_2012,SMD 0805,R,5%
+Generic 1206 res,Resistor_1206.Schlib,Resistor_1206,PCB - RESISTOR - CHIP - RES 1206_3216.PCBLIB,RES 1206_3216,SMD 1206,R,5%
+,,,,,,,

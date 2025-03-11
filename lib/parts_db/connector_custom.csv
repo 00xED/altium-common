@@ -1,0 +1,3 @@
+Part number,Value,Comment,Mfr,Library Path,Library Ref,Footprint Path,Footprint Ref 1
+Spinal_electrode_connector,,Custom spinal electrode,Custom,connector_8pin.SchLib,8 pin connector,spinal_electrode_8pin.PcbLib,spinal electrode 8pin
+,,,,,,,
