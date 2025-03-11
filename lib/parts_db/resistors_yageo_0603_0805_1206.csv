@@ -1,4 +1,4 @@
-Part Number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Value,Tolerance,ppm,Power,Voltage,Description,Component Note,gost BOM,Note
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Value,Tolerance,ppm,Power,Voltage,Description,Component Note,gost BOM,Note
 RC0603DR-071RL,Yageo," ",Resistor_0603.Schlib,Resistor_0603,PCB - RESISTOR - CHIP - RES 0603_1608.PCBLIB,RES 0603_1608,SMD 0603,1R,"0,5%",200,0.063,75,"RC0603DR-071RL, 0,5% 1R","0603 1R 0,5%","0603 1R 0,5%"," "
 RC0603FR-071RL,Yageo," ",Resistor_0603.Schlib,Resistor_0603,PCB - RESISTOR - CHIP - RES 0603_1608.PCBLIB,RES 0603_1608,SMD 0603,1R,1%,200,0.063,75,"RC0603FR-071RL, 1% 1R",0603 1R 1%,0603 1R 1%," "
 RC0603JR-071RL,Yageo," ",Resistor_0603.Schlib,Resistor_0603,PCB - RESISTOR - CHIP - RES 0603_1608.PCBLIB,RES 0603_1608,SMD 0603,1R,5%,200,0.063,75,"RC0603JR-071RL, 5% 1R",0603 1R 5%,0603 1R 5%," "

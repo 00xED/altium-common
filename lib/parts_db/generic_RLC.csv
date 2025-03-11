@@ -1,4 +1,4 @@
-Part Number,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Value,Tolerance
+Part number,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Value,Tolerance
 Generic 0603 cap,capacitor.Schlib,capacitor,PCB - CAPACITOR - MLCC - CAP 0603_1608.PCBLIB,CAP 0603_1608,SMD 0603,C,
 Generic 0805 cap,capacitor.Schlib,capacitor,PCB - CAPACITOR - MLCC - CAP 0805_2012.PCBLIB,CAP 0805_2012,SMD 0805,C,
 Generic 1206cap,capacitor.Schlib,capacitor,PCB - CAPACITOR - MLCC - CAP 1206_3216 - 1.0MM.PCBLIB,CAP 1206_3216 - 1.0MM,SMD 1206,C,
