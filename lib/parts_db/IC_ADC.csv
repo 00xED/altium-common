@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Resolution bits,Channels,Data rate,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,gost BOM,Component Note,Note
+ADS131M08IPBS,Texas Instruments," ",ADS131M08IPBS.SchLib,ADS131M08IPBS,PCB - LEADED - LQFP - TI PQFP-32 PBS.PcbLib,TI PQFP-32 PBS,TQFP-32,24," 8 Simultaneous", 32 kSPS," -40",125,"8-Channel, Simultaneously-Sampling, 24-Bit, Delta-Sigma ADC",Datasheet,https://static.chipdip.ru/lib/829/DOC031829094.pdf,ADS131M08IPBS Texas Instruments,TQFP-32,
