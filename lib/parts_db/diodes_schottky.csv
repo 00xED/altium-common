@@ -1,0 +1,2 @@
+Part Number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Voltage,Vf,Current,Power,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,gost BOM,Component Note,Note,,
+BAT54S,Nexperia, ,Schottky_x2_series.SchLib,Schottky_x2_series,PCB - LEADED - SOT-23 - NEXPERIA SOT-23-3.PCBLIB,NEXPERIA SOT-23-3,SOT-23,30,0.3,200 mA,200 mW,-55,150,"BAT54S, SOT-23 30V 0,2A, 0,8V",Datasheet,https://static.chipdip.ru/lib/985/DOC012985808.pdf,SOT-23,BAT54S Nexperia,, , 

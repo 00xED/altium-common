@@ -1,0 +1,2 @@
+Part Number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Diodes in Pack,Voltage,Vf,Current,Power,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,Component Note,gost BOM,TU,Note
+BAV199,Nexperia, ,diode_x2_series.SchLib,diode_x2_series,PCB - LEADED - SOT-23 - NEXPERIA SOT-23-3.PCBLIB,NEXPERIA SOT-23-3,SOT-23,2,75,"0,9",140mA,250 mW,-65,150,"BAV199, SOT-23 75V 0,14A, 0,9V",Datasheet,https://static.chipdip.ru/lib/447/DOC011447343.pdf,SOT-23,BAV199 Nexperia, , 
