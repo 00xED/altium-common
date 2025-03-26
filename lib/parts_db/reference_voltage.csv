@@ -1,0 +1,3 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Vin,VinMax,Vout,Iout,Precision,Drift,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,Component Note,gost BOM,TU,Note
+AD1580BRT,Analog Devices,,AD1580BRT.SchLib,AD1580BRT,PCB - LEADED - SOT-23 - TI SOT-23-3 DBZ.PCBLIB,TI SOT-23-3 DBZ,SOT-23-3 ,,,1.225V,10mA,±0.1%,±50 ppm/°C ,-40,85,"1.225 V Micropower, Precision Shunt Voltage Reference",Datasheet,https://static.chipdip.ru/lib/143/DOC000143598.pdf,SOT23-3,AD1580BRT Analog Devices,,
+,,,,,,,,,,,,,,,,,,,,,,
