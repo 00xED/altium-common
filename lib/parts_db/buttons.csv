@@ -1,0 +1,2 @@
+Part Number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Voltage,Current,Resistance,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,gost BOM,Component Note,Note
+FSMSM (1437566-3),TE Connectivity,,SPST_no_lock.SchLib,SPST_no_lock,PCB - BUTTONS - TE FSMSMTR.PCBLIB,TE FSMSMTR,FSMSM,12V,50 mA,100mOhm,-40,85,"SMD tactile switch",Datasheet,https://static.chipdip.ru/lib/681/DOC011681662.pdf,1437566-3 (FSMSM) TE Connectivity,,
