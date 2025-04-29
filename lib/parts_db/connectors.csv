@@ -1,0 +1,9 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Type,U,I,FREQ,Pins,Pitch,Plating,Flammability,Tmin,Tmax,System ,Description,ComponentLink1Description,ComponentLink1URL,TU,gost BOM,Component Note,Note
+PLD2-50,Connfly,,connector_50pin.SchLib,connector_50pin,PLD2-50.PcbLib,PLD2-50,PLD,,,,50,2.0mm,,,,,Connector,,,,,PLD2-50,Double row 2mm spacing,
+PLS-1,Connfly, ,connector_1pin.SchLib,connector_1pin,PLS-1.PcbLib,PLS-1,PLS, , , ,1,2.54mm, , , , ,Connector,"PLS-1, PLS 1 Pins",, , ,PLS-1 , , 
+PLS-2,Connfly, ,connector_2pin.SchLib,connector_2pin,PLS-2.PcbLib,PLS-2,PLS, , , ,2,2.54mm, , , , ,Connector,"PLS-2, PLS 2 Pins",, , ,PLS-2 , , 
+PLS-3,Connfly, ,connector_3pin.SchLib,connector_3pin,PLS-3.PcbLib,PLS-3,PLS, , , ,3,2.54mm, , , , ,Connector,"PLS-3, PLS 3 Pins",, , ,PLS-3 , , 
+PLS-4,Connfly, ,connector_4pin.SchLib,connector_4pin,PLS-4.PcbLib,PLS-4,PLS, , , ,4,2.54mm, , , , ,Connector,"PLS-4, PLS 4 Pins",, , ,PLS-4 , , 
+B2B-EH-A,JST,DS1069-01-2MVW6,connector_2pin.SchLib,connector_2pin,B2B-EH-A.PcbLib,B2B-EH-A,JST-EH,,,,2,2.5mm,,,,,Connector,2.5mm pitch 2 pin crimp-style connector,,,,"B2B-EH-A, JST",,
+B4B-EH-A,JST,,connector_4pin.SchLib,connector_4pin,B4B-EH-A.PcbLib,B4B-EH-A,JST-EH,,,,4,2.5mm,,,,,Connector,2.5mm pitch 3 pin crimp-style connector,,,,"B4B-EH-A, JST",,
+USB4085-GF-A,GCT,,type_c_GCT_USB4085-GF-A.SchLib,USB4085-GF-A,GCT_USB4085-GF-A.PcbLib,GCT_USB4085-GF-A,USB type-C,,,,16,,,,,,Connector,USB 2.0 Type C Receptacle DIP type,Datasheet,https://static.chipdip.ru/lib/647/DOC044647631.pdf,,"USB4085-GF-A, GCT",,
