@@ -1,3 +1,2 @@
 Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Value,Tolerance,Current,DCR,Voltage,CurrentSatur,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,TU,Component Note,gost BOM,Note
-"
-B82790-C474-N215",EPCOS,,EMI_single_phase.SchLib,EMI single phase,EPCOS B82790.PcbLib,EPCOS B82790,,470 uH,30%,500 mA,170 mOhm,42VAC/80VDC,,,60,Common-mode choke,Datasheet,https://static.chipdip.ru/lib/773/DOC059773401.pdf,,,B82790-C474-N215 Epcos,
+"B82790-C474-N215",EPCOS,,EMI_single_phase.SchLib,EMI single phase,EPCOS_B82790.PcbLib,EPCOS_B82790,,470 uH,30%,500 mA,170 mOhm,42VAC/80VDC,,,60,Common-mode choke,Datasheet,https://static.chipdip.ru/lib/773/DOC059773401.pdf,,,B82790-C474-N215 Epcos,
