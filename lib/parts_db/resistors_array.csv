@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Value,Positions,Tolerance,ppm,Power,Voltage,Description,Component Note,gost BOM,Note
+CAY16-330J4,Bourns,,Resistor_array_0603x4.Schlib,Resistor_array_0603x4,PCB - RESISTOR - ARRAY - RESNET 1206-8 CONVEX.PcbLib,RESNET 1206-8 CONVEX,SMD 1206,33R,4,5%,±200,0.0625,50,"CAY16-330J4, 5% 33R x4",Array 33R x4,"CAY16-330J4, Bourns",
