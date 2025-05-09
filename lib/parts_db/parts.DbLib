@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\repos\ecap_reg
 AddMode=2
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=SD_cards$
+LastFocusedTable=buttons$
 [Table1]
 SchemaName=
 TableName=IC_ADC$
@@ -80,9 +80,6 @@ TableName=SD_cards$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=86|Library Path0=142|Library Ref0=106|Footprint Path0=142|Footprint Ref0=106|Description0=178|Manufacturer0=93|Alternative0=78|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=112|gost BOM0=106|TU0=37|Note0=48
 [Table11]
 SchemaName=
 TableName=buttons$
