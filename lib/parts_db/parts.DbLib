@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\repos\ecap_registrator_bench\altium-common\lib\parts_db\parts.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\Work\PROJECTS\Stimulation\Hard\StimulatorPC\altium-common\lib\parts_db\parts.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=2
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=buttons$
+LastFocusedTable=transistors_BJT$
 [Table1]
 SchemaName=
 TableName=IC_ADC$
@@ -56,6 +56,9 @@ TableName=IC_instrumentation_amplifiers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=91|Library Ref0=77|Footprint Path0=247|Footprint Ref0=97|Description0=409|Part number0=86|Manufacturer0=100|Alternative0=78|Package0=65|Type0=47|FREQ0=50|Noise0=72|Channels0=71|Current0=62|Voltage0=63|Tech0=47|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|gost BOM0=157|Component Note0=112|Note0=48
 [Table7]
 SchemaName=
 TableName=IC_isolators$
@@ -104,6 +107,9 @@ TableName=connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part number0=86|Library Path0=180|Library Ref0=94|Footprint Path0=143|Footprint Ref0=107|Description0=212|Manufacturer0=93|Alternative0=106|Type0=64|U0=31|I0=26|FREQ0=50|Pins0=44|Pitch0=48|Plating0=59|Flammability0=87|Tmin0=48|Tmax0=49|System 0=62|ComponentLink1Description0=170|ComponentLink1URL0=271|TU0=37|gost BOM0=108|Component Note0=139|Note0=48
 [Table15]
 SchemaName=
 TableName=connectors_IDC$
@@ -122,6 +128,9 @@ TableName=diodes$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Path0=124|Library Ref0=88|Footprint Path0=269|Footprint Ref0=107|Description0=170|Manufacturer0=93|Alternative0=78|Package0=65|Diodes in Pack0=98|Voltage0=63|Vf0=34|Current0=62|Power0=55|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=112|gost BOM0=134|TU0=37|Note0=48
 [Table18]
 SchemaName=
 TableName=diodes_ESD$
@@ -206,6 +215,9 @@ TableName=transistors_BJT$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part number0=86|Library Path0=109|Library Ref0=77|Footprint Path0=269|Footprint Ref0=107|Description0=254|Manufacturer0=113|Alternative0=78|Package0=65|Type0=47|V_CEO0=57|I_C250=50|I_CM0=48|h_FE0=47|V_Cesat0=63|FREQ0=51|ComponentLink1Description0=170|ComponentLink1URL0=374|gost BOM0=174|Component Note0=112|Note0=48
 [Table32]
 SchemaName=
 TableName=transistors_FET$
