@@ -1,3 +1,0 @@
-Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Structure,Voltage,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,gost BOM,Component Note,Note
-ADG734BRU,Analog Devices," ",ADG734BRU.SchLib,ADG734BRU,PCB - LEADED - SOP - TI TSSOP-20 PW.PCBLIB,TI TSSOP-20 PW,TSSOP-20,4xSPDT,"±2.5V, +1.8-5.5 V"," -40",85,"CMOS, 2.5 Ohm Low Voltage, Triple/Quad SPDT Switches",Datasheet,https://static.chipdip.ru/lib/008/DOC013008934.pdf,ADG734BRU Analog devices,TSSOP-20,
-,,,,,,,,,,,,,,,,,

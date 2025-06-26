@@ -1,3 +1,3 @@
-Part Number,Library Path,Library Ref,Footprint Path,Footprint Ref,Description,Component Note,Note
+Part number,Library Path,Library Ref,Footprint Path,Footprint Ref,Description,Component Note,Note
 TP_SMD0603,test_point.Schlib,test_point,test_point_smd_0603.PCBLIB,test_point_0603,"SMD test point",,
 TP_TH_08mm,test_point.Schlib,test_point,test_point_th_08mm.PCBLIB,test_point_th_08mm,Through-hole 0.8mm test point,,

@@ -1,3 +1,7 @@
 Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Description,gost BOM,Component Note,Note
 PLS-3,Connfly,,jumper_SPDT.SchLib,jumper_SPDT,PLS-3.PcbLib,PLS-3,3 pin jumnper,DS1021-1x3 Connfly,,
 PLS-2,Connfly,,jumper_SPST.SchLib,jumper_SPST,PLS-2.PcbLib,PLS-2,2 pin jumnper,DS1021-1x2 Connfly,,
+Jumper SMD0805,,,jumper - 3pin.SchLib,jumper 3pin,PCB - JUMPER - CHIP - RES 0805_2012.PCBLIB,JUMPER 0805_2012,3 pin jumnper,0805 0R 5%,,
+Jumper SMD0603,,,jumper - 3pin.SchLib,jumper 3pin,PCB - JUMPER - CHIP - RES 0603_1608.PCBLIB,JUMPER 0603_1608,3 pin jumnper,0603 0R 5%,,
+Jumper PLS-3,,,jumper - 3pin.SchLib,jumper 3pin,PCB - JUMPER - PLS-3.PcbLib,JUMPER PLS-3,3 pin jumnper,DS1021-1x3 Connfly,,
+Jumper PLS-2,,,jumper - 2pin.SchLib,jumper 2pin,PCB - JUMPER - PLS-2.PcbLib,Jumper PLS-2,2 pin jumnper,DS1021-1x2 Connfly,,
