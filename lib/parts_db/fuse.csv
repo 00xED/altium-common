@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Value,V max,I max,I hold @0C,I hold @23C,I hold @60C,I trip,Time,R min/max,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,gost BOM,Component Note,Note
+MF-NSMF110-2,Bourns,,Fuse_1206.Schlib,Fuse_1206,PCB - FUSE - FUSE 1206_3216 0.6MM.PcbLib,FUSE 1206_3216 0.6MM,"SMD 1206",1.1A 6V,6V,100A,1.3A,1.1A,0.8A,2.2A @23C,"0,1s @8A 23C","0,06/0,2 Ohm",-40,85,PTC Resettable Fuses,Datasheet,https://static.chipdip.ru/lib/252/DOC011252156.pdf,MF-NSMF110-2 Bourns,,
