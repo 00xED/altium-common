@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Voltage,Current,Detents,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,TU,gost BOM,Component Note,Note
+PEC12R-4220F-S0024,Bourns,,Bourns PEC12R-xxxxF-Sxxxx.SchLib,PEC12R-xxxxF-Sxxxx,PEC12R-4220F-S0024.PcbLib,PEC12R-4220F-S0024,5V,10mA,24,-30,+70,,https://static.chipdip.ru/lib/878/DOC011878290.pdf,https://static.chipdip.ru/lib/878/DOC011878290.pdf,,PEC12R-4220F-S0024 Bourns,,

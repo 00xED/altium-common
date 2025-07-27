@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Value,Tolerance,B,Current,Voltage,Description,Component Note,gost BOM,Note
+NCP18XH103F03RB,Murata,,Resistor_NTC.Schlib,Resistor_NTC,PCB - PASSIVES - NTC 0603_1608.PCBLIB,NTC 0603_1608,SMD 0603,10k,1%,3380,0.1mA max,5,"NTC 10k 1%",0603 NTC 10k 1%,NCP18XH103F03RB Murata,
