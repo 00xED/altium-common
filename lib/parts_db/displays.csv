@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Size,Resolution,Interface,ComponentLink1Description,ComponentLink1URL,Component Note,gost BOM,TU,Note
+ST7735_IPS_RGB,China,,ST7735_SPI_I2C.SchLib,ST7735_SPI_I2C,ST7735_SPI_I2C.PcbLib,ST7735_SPI_I2C,0.96 in,160x80,"SPI, I2C",Datasheet,https://www.chipdip.ru/product0/8044906259,,TFT OLED IPS LCD 0.96 inch ST7735 8-pins 160x80,,

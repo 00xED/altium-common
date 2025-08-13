@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Type,FREQ,THD,Channels,Power,Voltage,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,gost BOM,Component Note,Note
+LM386M-1/NOPB,Texas Instruments,,LM386.SchLib,LM386,PCB - LEADED - SOIC - TI SOIC-8 D.PCBLIB,TI SOIC-8 D,SOIC-8,Low Voltage Audio Power Amplifier,300 kHz,0.2%,1,325 mW,4..12,0,70, Low Voltage Audio Power Amplifier,Datasheet,https://static.chipdip.ru/lib/923/DOC012923320.pdf,LM386M-1/NOPB Texas Instruments,,

@@ -1,0 +1,3 @@
+Part number,Manufacturer,Comment,Library Path,Library Ref,Footprint Path,Footprint Ref 1
+STM32F4DISCOVERY,ST Microelectronics,MB997 devboard,STM32F4DISCOVERY.SchLib,STM32F4DISCOVERY,STM32F4DISCOVERY.PcbLib,STM32F4DISCOVERY
+,,,,,,

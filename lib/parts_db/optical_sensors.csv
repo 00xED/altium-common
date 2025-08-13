@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Type,Wavelength,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,gost BOM,Component Note,TU,Note
+CNY70,Vishay,,CNY70.SchLib,CNY70,PCB - OPTOSENSOR - VISHAY CNY70.PcbLib,CNY70,Custom,Reflective Optical Sensor with Transistor Output,950 nm,-40,85,Reflective Optical Sensor with Transistor Output,Datasheet,https://static.chipdip.ru/lib/743/DOC028743675.pdf,CNY70 Vishay,,,

@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Type,U,I,Coil resistance,Volume,Resonance freq,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,TU,gost BOM,Component Note,Note
+KLS3-MT-12*7.5-A,KLS,,speaker.SchLib,Speaker,KLS3-MT-12x7.5.PcbLib,L-KLS3-MT-12*7.5-A,Electromagnetic,2 V,70 mA,6.5 Ohm,80 dB,2731 Hz,-20,70,"Magnetic Transducer Buzzer",Datasheet,https://static.chipdip.ru/lib/162/DOC045162719.pdf,,KLS3-MT-12*7.5-A KLS,,

@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Outputs,Voltage,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,gost BOM,Component Note,Note
+74HC595,NXP," ",74HC595.SchLib,74HC595,PCB - LEADED - SOP - NXP TSSOP-16.PCBLIB,NXP TSSOP-16,TSSOP-16,8,"±5-8 V, +3.3-16 V"," -40",85,"8-bit serial-in, serial or parallel-out shift register with output latches; 3-state",Datasheet,https://static.chipdip.ru/lib/583/DOC001583133.pdf,74HC595 NXP,TSSOP-16,

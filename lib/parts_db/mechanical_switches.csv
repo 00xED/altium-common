@@ -1,3 +1,4 @@
-Part number,Value,Comment,Mfr,Library Path,Library Ref,Footprint Path,Footprint Ref 1
-DS1040-01,,DS1040-01(DIP_SPSTx1),Connfly,SPSTx1.SchLib,SPSTx1,DS1040-01 (DIP_switch).PcbLib,DS1040-01 (DIP_switch)
-DS1040-02RT,,DS1040-02RT DIP_SPSTx2),Connfly,SPSTx2.SchLib,SPSTx2,DS1040-02RT (DIP_switch).PcbLib,DS1040-02RT (DIP_switch)
+Part number,Value,Comment,Manufacturer,Library Path,Library Ref,Footprint Path,Footprint Ref 1,Struct,U,I,R,gost BOM
+DS1040-01,,DS1040-01 (DIP_SPSTx1),Connfly,SPSTx1.SchLib,SPSTx1,DS1040-01.PcbLib,DS1040-01,SPSTx1,24V,25mA,50mOhm,DS1040-01 Connfly
+DS1040-02RT,,DS1040-02RT (DIP_SPSTx2),Connfly,SPSTx2.SchLib,SPSTx2,DS1040-02RT.PcbLib,DS1040-02RT,SPSTx2,24V,25mA,50mOhm,DS1040-02RT Connfly
+DS1040-05RN,,DS1040-05RN (DIP_SPSTx5),Connfly,SPSTx5.SchLib,SPSTx5,DS1040-05RN.PcbLib,DS1040-05RN,SPSTx5,24V,25mA,50mOhm,DS1040-05RN Connfly
