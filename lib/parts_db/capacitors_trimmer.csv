@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Value,Units,Tolerance,Voltage,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,Component Note,gost BOM
+TZC3P300A110,Murata," ",trimmer_capacitor.Schlib,trimmer_capacitor,PCB - TRIMMER CAP - MURATA TZC3.PcbLib,MURATA TZC3,6.5-30,pF,+50/-0%,100V,-25,85,"TZC3P300A110 6.5-30pF trimmer cap",Datasheet,https://static.chipdip.ru/lib/525/DOC059525100.pdf,TZC3P300A110 Murata,TZC3P300A110 Murata
