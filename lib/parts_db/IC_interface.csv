@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Type,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,Component Note,gost BOM,Note
+CP2102N-A02-GQFN24R,Silicon Laboratories,,CP2102N-A02-GQFN24R.SchLib,CP2102N-A02-GQFN24R,PCB - LEADLESS - QFN - SILICON LABS QFN-24 4x4MM.PCBLIB,SILICON LABS QFN-24 4x4MM,QFN24,USB to serial,-40,105,Single-Chip USB-to-UART ,Datasheet,https://static.chipdip.ru/lib/673/DOC014673925.pdf,,CP2102N-A02-GQFN24R Silicon Laboratories,
