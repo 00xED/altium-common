@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\repos\pmeu-board\altium-common\lib\parts_db\parts.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=E:\Projects\Other\pmeu\pmeu-board\altium-common\lib\parts_db\parts.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=2
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=connectors$
+LastFocusedTable=buttons$
 [Table1]
 SchemaName=
 TableName=DC-DC_power_modules$
@@ -152,6 +152,9 @@ TableName=buttons$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=113|Library Ref0=77|Footprint Path0=249|Footprint Ref0=125|Description0=102|Part number0=128|Manufacturer0=93|Alternative0=78|Package0=108|Voltage0=63|Current0=62|Resistance0=77|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=425|gost BOM0=209|Component Note0=112|Note0=48
 [Table23]
 SchemaName=
 TableName=buzzers$
@@ -182,9 +185,6 @@ TableName=connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=124|Library Path0=180|Library Ref0=124|Footprint Path0=277|Footprint Ref0=109|Description0=291|Manufacturer0=93|Alternative0=106|Type0=98|U0=31|I0=26|FREQ0=50|Pins0=44|Pitch0=48|Plating0=59|Flammability0=87|Tmin0=48|Tmax0=49|System 0=62|ComponentLink1Description0=170|ComponentLink1URL0=313|TU0=37|gost BOM0=109|Component Note0=139|Note0=48
 [Table28]
 SchemaName=
 TableName=connectors_IDC$
@@ -263,6 +263,9 @@ TableName=mechanical_switches$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=83|Library Ref0=77|Footprint Path0=170|Footprint Ref 10=134|Part number0=134|Value0=52|Comment0=72|Manufacturer0=93|Struct0=53|U0=31|I0=42|R0=54|gost BOM0=207
 [Table41]
 SchemaName=
 TableName=optical_sensors$
