@@ -91,7 +91,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=86|Library Path0=118|Library Ref0=82|Footprint Path0=284|Footprint Ref0=138|Description0=354|Manufacturer0=93|Alternative0=78|Package0=97|Structure0=70|Voltage0=146|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|gost BOM0=162|Component Note0=112|Note0=48
+BrowserOrder_Visible=Part number0=86|Library Path0=118|Library Ref0=82|Footprint Path0=284|Footprint Ref0=138|Description0=392|Manufacturer0=100|Alternative0=78|Package0=97|Structure0=70|Voltage0=146|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|gost BOM0=172|Component Note0=112|Note0=48
 [Table9]
 SchemaName=
 TableName=IC_audio_amplifiers$
