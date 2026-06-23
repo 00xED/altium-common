@@ -19,7 +19,11 @@ LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
+<<<<<<< Updated upstream
 LastFocusedTable=buttons$
+=======
+LastFocusedTable=IC_interface$
+>>>>>>> Stashed changes
 [Table1]
 SchemaName=
 TableName=DC-DC_power_modules$
@@ -101,6 +105,9 @@ TableName=IC_interface$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=165|Library Ref0=129|Footprint Path0=313|Footprint Ref0=157|Description0=141|Part number0=129|Manufacturer0=109|Alternative0=78|Package0=65|Type0=121|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=112|gost BOM0=233|Note0=48
 [Table14]
 SchemaName=
 TableName=IC_isolators$
@@ -155,6 +162,9 @@ TableName=buttons$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=113|Library Ref0=77|Footprint Path0=249|Footprint Ref0=125|Description0=102|Part number0=128|Manufacturer0=93|Alternative0=78|Package0=108|Voltage0=63|Current0=62|Resistance0=77|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=425|gost BOM0=209|Component Note0=112|Note0=48
 [Table23]
 SchemaName=
 TableName=buzzers$
