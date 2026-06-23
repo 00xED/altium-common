@@ -155,9 +155,6 @@ TableName=buttons$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=113|Library Ref0=77|Footprint Path0=249|Footprint Ref0=125|Description0=102|Part number0=128|Manufacturer0=93|Alternative0=78|Package0=108|Voltage0=63|Current0=62|Resistance0=77|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=425|gost BOM0=209|Component Note0=112|Note0=48
 [Table23]
 SchemaName=
 TableName=buzzers$
