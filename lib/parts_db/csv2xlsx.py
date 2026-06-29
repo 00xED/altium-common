@@ -24,3 +24,4 @@ for csv_file in csv_files:
 excel_writer.close()
 
 print(f'Excel file "{excel_file}" created successfully.')
+input("Press Enter to continue...")

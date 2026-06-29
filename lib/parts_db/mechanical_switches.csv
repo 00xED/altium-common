@@ -1,4 +1,5 @@
-Part number,Value,Comment,Manufacturer,Library Path,Library Ref,Footprint Path,Footprint Ref 1,Struct,U,I,R,gost BOM
-DS1040-01,,DS1040-01 (DIP_SPSTx1),Connfly,SPSTx1.SchLib,SPSTx1,DS1040-01.PcbLib,DS1040-01,SPSTx1,24V,25mA,50mOhm,DS1040-01 Connfly
-DS1040-02RT,,DS1040-02RT (DIP_SPSTx2),Connfly,SPSTx2.SchLib,SPSTx2,DS1040-02RT.PcbLib,DS1040-02RT,SPSTx2,24V,25mA,50mOhm,DS1040-02RT Connfly
-DS1040-05RN,,DS1040-05RN (DIP_SPSTx5),Connfly,SPSTx5.SchLib,SPSTx5,DS1040-05RN.PcbLib,DS1040-05RN,SPSTx5,24V,25mA,50mOhm,DS1040-05RN Connfly
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref 1,Struct,U,I,R,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,gost BOM
+DS1040-01,Connfly,,SPSTx1.SchLib,SPSTx1,DS1040-01.PcbLib,DS1040-01,SPSTx1,24V,25mA,50mOhm,,,DS1040-01 (DIP_SPSTx1),,,DS1040-01 Connfly
+DS1040-02RT,Connfly,,SPSTx2.SchLib,SPSTx2,DS1040-02RT.PcbLib,DS1040-02RT,SPSTx2,24V,25mA,50mOhm,,,DS1040-02RT (DIP_SPSTx2),,,DS1040-02RT Connfly
+DS1040-05RN,Connfly,,SPSTx5.SchLib,SPSTx5,DS1040-05RN.PcbLib,DS1040-05RN,SPSTx5,24V,25mA,50mOhm,,,DS1040-05RN (DIP_SPSTx5),,,DS1040-05RN Connfly
+L-KLS7-SS03-12D02-EG05,KLS electronic,,SPDTx1.SchLib,SPDTx1,L-KLS7-SS03-12D02-EG05.PcbLib,L-KLS7-SS03-12D02-EG05,SPDTx1,50V,300mA,50mOhm,,,SPDT Slide Switch,Datasheet,https://static.chipdip.ru/lib/551/DOC001551982.pdf,L-KLS7-SS03-12D02-EG05 KLS electronic
