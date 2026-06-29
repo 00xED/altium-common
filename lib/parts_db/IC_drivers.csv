@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Type,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,Component Note,gost BOM,Note
+LT4322,Analog Devices,,LT4322_sync_rect.SchLib,LT4322,PCB - LEADED - SOP - ANALOG MSOP-8 RM-8.PcbLib,ANALOG MSOP-8 RM-8,MSOP-8,"Floating, High-Voltage Active Rectifier Controller",-40,150,"Floating, High-Voltage Active Rectifier Controller",Datasheet,https://www.analog.com/media/en/technical-documentation/data-sheets/lt4322.pdf,,LT4322 Analog Devices,
