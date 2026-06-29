@@ -1,25 +1,25 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\Zotin\Desktop\work\_Current tasks\power_board\altium-commmon-library\lib\parts_db\parts.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\repos\registim-v2\registim-reg-v2\altium-common\lib\parts_db\parts.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=2
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=C:\Users\Zotin\Desktop\work\_Current tasks\power_board\altium-commmon-library\lib\parts_db\parts.xlsx
-DatabasePathRelative=0
+LibraryDatabasePath=parts.xlsx
+DatabasePathRelative=1
 TopPanelCollapsed=0
 LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=IC_LDO$
+LastFocusedTable=buttons$
 [Table1]
 SchemaName=
 TableName=DC-DC_power_modules$
@@ -44,18 +44,12 @@ TableName=IC_DAC$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=89|Library Path0=122|Library Ref0=89|Footprint Path0=333|Footprint Ref0=177|Description0=470|Manufacturer0=93|Alternative0=78|Package0=72|Resolution bits0=101|Channels0=90|Data rate0=70|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|gost BOM0=170|Component Note0=112|Note0=48
 [Table5]
 SchemaName=
 TableName=IC_LDO$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=122|Library Path0=157|Library Ref0=121|Footprint Path0=273|Footprint Ref0=109|Description0=609|Manufacturer0=100|Alternative0=78|Package0=69|Vin0=40|VinMax0=61|Vout0=66|Iout0=48|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=112|gost BOM0=217|TU0=37|Note0=48
 [Table6]
 SchemaName=
 TableName=IC_MCU$
@@ -92,9 +86,6 @@ TableName=IC_dc_dc$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=107|Library Path0=143|Library Ref0=91|Footprint Path0=282|Footprint Ref0=125|Description0=518|Manufacturer0=100|Alternative0=78|Package0=91|Type0=126|Vimin0=52|Vimax0=53|VO0=180|Current0=371|Power0=55|K0=60|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|TU0=37|Component Note0=112|gost BOM0=202|Note0=48
 [Table12]
 SchemaName=
 TableName=IC_instrumentation_amplifiers$
@@ -113,9 +104,6 @@ TableName=IC_isolators$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=130|Library Ref0=94|Footprint Path0=309|Footprint Ref0=159|Description0=214|Part number0=94|Manufacturer0=105|Alternative0=78|Package0=65|Type0=196|Speed0=77|Channels0=71|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|gost BOM0=175|Component Note0=112|TU0=37|Note0=48
 [Table15]
 SchemaName=
 TableName=IC_level_shifter$
@@ -164,9 +152,6 @@ TableName=buttons$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=113|Library Ref0=77|Footprint Path0=249|Footprint Ref0=125|Description0=102|Part number0=128|Manufacturer0=93|Alternative0=78|Package0=108|Voltage0=63|Current0=62|Resistance0=77|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=425|gost BOM0=209|Component Note0=112|Note0=48
 [Table23]
 SchemaName=
 TableName=buzzers$
@@ -335,9 +320,6 @@ TableName=sensors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=86|Library Path0=95|Library Ref0=77|Footprint Path0=210|Footprint Ref0=92|Description0=525|Component Note0=112|Note0=271
 [Table51]
 SchemaName=
 TableName=testpoints$
