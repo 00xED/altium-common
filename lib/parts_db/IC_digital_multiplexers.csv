@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Package,Structure,Voltage,Tmin,Tmax,Description,ComponentLink1Description,ComponentLink1URL,gost BOM,Component Note,Note
+TS3USB221EDRCR,Texas Instruments," ",TS3USB221E.SchLib,TS3USB221E,PCB - LEADLESS - SON - TI VSON-10 DRC0010U.PcbLib,TI VSON-10 DRC0010U,VSON-10,2:1,"5.5 V"," -40",85,"High-Speed USB 2.0 (480-Mbps) 1:2 Multiplexer – Demultiplexer Switch With Single Enable",Datasheet,https://static.chipdip.ru/lib/346/DOC032346277.pdf,TS3USB221EDRCR Texas Instruments,VSON-10,
