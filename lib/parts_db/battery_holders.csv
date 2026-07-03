@@ -1,0 +1,2 @@
+Part number,Manufacturer,Alternative,Library Path,Library Ref,Footprint Path,Footprint Ref,Battery type,Height,Tmin,Tmax,System ,Description,ComponentLink1Description,ComponentLink1URL,TU,gost BOM,Component Note,Note
+KLS5-CR2032-05B,KLS,,battery_single.SchLib,battery_single,KLS5-CR2032-05B.PcbLib,KLS5-CR2032-05B,CR2032,5.5mm,-25,+85,Connector,"DIP,CR2032 Coin Battery Holder",Datasheet,https://www.compel.ru/item-pdf/846b53f03c47c0bcc9a30db2197a0afd/pn/kls~l-kls5-cr2032-05b.pdf,,KLS5-CR2032-05B KLS,,
