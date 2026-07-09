@@ -19,7 +19,7 @@ LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=connectors$
+LastFocusedTable=IC_MCU$
 [Table1]
 SchemaName=
 TableName=DC-DC_power_modules$
@@ -56,6 +56,9 @@ TableName=IC_MCU$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part number0=132|Library Path0=129|Library Ref0=137|Footprint Path0=257|Footprint Ref0=107|Description0=218|Manufacturer0=104|Alternative0=78|Package0=65|Core0=94|CPU Speed0=79|FREQ0=52|EEPROM0=67|RAM0=47|FLASH0=62|ETH0=43|CAN0=45|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=112|gost BOM0=240|Note0=48
 [Table7]
 SchemaName=
 TableName=IC_Potentiometers$
@@ -206,18 +209,12 @@ TableName=connector_custom$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=208|Value0=52|Comment0=132|Mfr0=47|Library Path0=124|Library Ref0=88|Footprint Path0=213|Footprint Ref 10=172
 [Table32]
 SchemaName=
 TableName=connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=124|Manufacturer0=93|Alternative0=106|Library Path0=180|Library Ref0=124|Footprint Path0=277|Footprint Ref0=109|Type0=98|U0=31|I0=26|FREQ0=50|Pins0=44|Pitch0=48|Plating0=59|Flammability0=87|Tmin0=48|Tmax0=49|System 0=62|Description0=291|ComponentLink1Description0=170|ComponentLink1URL0=313|TU0=37|gost BOM0=150|Component Note0=139|Note0=48
 [Table33]
 SchemaName=
 TableName=connectors_IDC$
