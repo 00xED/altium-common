@@ -6,3 +6,4 @@ Jumper SMD0603,,,jumper - 3pin.SchLib,jumper 3pin,PCB - JUMPER - CHIP - RES 0603
 Jumper PLS-3,,,jumper - 3pin.SchLib,jumper 3pin,PCB - JUMPER - PLS-3.PcbLib,JUMPER PLS-3,3 pin jumnper,DS1021-1x3 Connfly,,
 Jumper PLS-2,,,jumper - 2pin.SchLib,jumper 2pin,PCB - JUMPER - PLS-2.PcbLib,Jumper PLS-2,2 pin jumnper,DS1021-1x2 Connfly,,
 Jumper PLS-2R,,,jumper - 2pin.SchLib,jumper 2pin,PCB - JUMPER - PLS-2R.PcbLib,JUMPER PLS-2R,2 pin jumnper,DS-1022-1x2 Connfly,,
+Jumper PLS-3R,,,jumper - 3pin.SchLib,jumper 3pin,PCB - JUMPER - PLS-3R.PcbLib,JUMPER PLS-3R,3 pin jumnper,DS1021-1x3 Connfly,,
