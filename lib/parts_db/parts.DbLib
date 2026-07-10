@@ -212,6 +212,9 @@ TableName=connector_custom$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=124|Library Ref0=88|Footprint Path0=213|Footprint Ref 10=172|Part number0=208|Value0=52|Comment0=132|Mfr0=47
 [Table32]
 SchemaName=
 TableName=connectors$
@@ -224,6 +227,9 @@ TableName=connectors_IDC$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=130|Library Ref0=95|Footprint Path0=165|Footprint Ref 10=112|Part number0=112|Value0=52|Comment0=128|Mfr0=48
 [Table34]
 SchemaName=
 TableName=devboards$
@@ -749,7 +755,7 @@ Options=FieldName=connectors_IDC$.Library Ref|TableNameOnly=connectors_IDC$|Fiel
 [FieldMap190]
 Options=FieldName=connectors_IDC$.Footprint Path|TableNameOnly=connectors_IDC$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap191]
-Options=FieldName=connectors_IDC$.Footprint Ref 1|TableNameOnly=connectors_IDC$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=connectors_IDC$.Part number|TableNameOnly=connectors_IDC$|FieldNameOnly=Part number|FieldType=0|ParameterName=Part number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap192]
 Options=FieldName=devboards$.Library Path|TableNameOnly=devboards$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap193]
