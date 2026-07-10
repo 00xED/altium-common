@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Work\PROJECTS\Stimulation\Hard\StimulatorPC2\altium-common\lib\parts_db\parts.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\repos\registim-v2\registim-reg-v2\altium-common\lib\parts_db\parts.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=2
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=resistors_yageo_0603_0805_1206$
+LastFocusedTable=battery_holders$
 [Table1]
 SchemaName=
 TableName=DC-DC_power_modules$
@@ -56,9 +56,6 @@ TableName=IC_MCU$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=132|Library Path0=129|Library Ref0=137|Footprint Path0=257|Footprint Ref0=107|Description0=218|Manufacturer0=104|Alternative0=78|Package0=65|Core0=94|CPU Speed0=79|FREQ0=52|EEPROM0=67|RAM0=47|FLASH0=62|ETH0=43|CAN0=45|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=112|gost BOM0=240|Note0=48
 [Table7]
 SchemaName=
 TableName=IC_Potentiometers$
@@ -173,12 +170,18 @@ TableName=accelerometers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=95|Library Ref0=77|Footprint Path0=210|Footprint Ref0=92|Description0=525|Part number0=86|Component Note0=112|Note0=271
 [Table26]
 SchemaName=
 TableName=battery_holders$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part number0=100|Library Path0=116|Library Ref0=80|Footprint Path0=288|Footprint Ref0=100|Description0=179|Manufacturer0=93|Alternative0=78|Battery type0=83|Height0=58|Tmin0=48|Tmax0=49|System 0=62|ComponentLink1Description0=170|ComponentLink1URL0=520|TU0=37|gost BOM0=115|Component Note0=112|Note0=48
 [Table27]
 SchemaName=
 TableName=buttons$
@@ -341,9 +344,6 @@ TableName=resistors_yageo_0603_0805_1206$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=112|Library Ref0=78|Footprint Path0=242|Footprint Ref0=92|Description0=174|Part number0=110|Manufacturer0=93|Alternative0=91|Package0=65|Value0=52|Tolerance0=73|ppm0=46|Power0=55|Voltage0=63|Component Note0=112|gost BOM0=93|Note0=48
 [Table54]
 SchemaName=
 TableName=rotary_encoders$
