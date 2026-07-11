@@ -19,7 +19,7 @@ LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=IC_power_management$
+LastFocusedTable=accelerometers$
 [Table1]
 SchemaName=
 TableName=DC-DC_power_modules$
@@ -224,6 +224,9 @@ TableName=connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part number0=124|Library Path0=180|Library Ref0=124|Footprint Path0=277|Footprint Ref0=109|Description0=291|Manufacturer0=93|Alternative0=106|Type0=98|U0=31|I0=26|FREQ0=50|Pins0=44|Pitch0=48|Plating0=59|Flammability0=87|Tmin0=48|Tmax0=49|System 0=62|ComponentLink1Description0=170|ComponentLink1URL0=313|TU0=37|gost BOM0=150|Component Note0=139|Note0=48
 [Table33]
 SchemaName=
 TableName=connectors_IDC$
