@@ -19,7 +19,7 @@ LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=battery_holders$
+LastFocusedTable=IC_LDO$
 [Table1]
 SchemaName=
 TableName=DC-DC_power_modules$
@@ -44,15 +44,15 @@ TableName=IC_DAC$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=89|Library Path0=122|Library Ref0=89|Footprint Path0=333|Footprint Ref0=177|Description0=470|Manufacturer0=93|Alternative0=78|Package0=72|Resolution bits0=101|Channels0=90|Data rate0=70|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|gost BOM0=170|Component Note0=112|Note0=48
 [Table5]
 SchemaName=
 TableName=IC_LDO$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part number0=122|Library Path0=157|Library Ref0=121|Footprint Path0=281|Footprint Ref0=125|Description0=609|Manufacturer0=100|Alternative0=78|Package0=79|Vin0=40|VinMax0=61|Vout0=66|Iout0=48|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=112|gost BOM0=217|TU0=37|Note0=48
 [Table6]
 SchemaName=
 TableName=IC_MCU$
@@ -149,9 +149,6 @@ TableName=IC_power_management$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=121|Library Ref0=85|Footprint Path0=288|Footprint Ref0=126|Description0=621|Part number0=105|Manufacturer0=100|Alternative0=78|Package0=84|Type0=384|Modes0=127|Vimin0=52|Vimax0=53|Input current0=91|Charge current0=100|Charge voltage0=101|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=348|TU0=37|Component Note0=112|gost BOM0=200|Note0=48
 [Table22]
 SchemaName=
 TableName=IC_shift_registers$
@@ -182,9 +179,6 @@ TableName=battery_holders$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=116|Library Ref0=80|Footprint Path0=288|Footprint Ref0=100|Description0=179|Part number0=100|Manufacturer0=93|Alternative0=78|Battery type0=83|Height0=58|Tmin0=48|Tmax0=49|System 0=62|ComponentLink1Description0=170|ComponentLink1URL0=520|TU0=37|gost BOM0=115|Component Note0=112|Note0=48
 [Table27]
 SchemaName=
 TableName=buttons$
@@ -1019,5 +1013,3 @@ Options=FieldName=transistors_FET$.Footprint Path|TableNameOnly=transistors_FET$
 Options=FieldName=transistors_FET$.Footprint Ref|TableNameOnly=transistors_FET$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap324]
 Options=FieldName=transistors_FET$.Description|TableNameOnly=transistors_FET$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap325]
-Options=FieldName=transistors_FET$.Part number|TableNameOnly=transistors_FET$|FieldNameOnly=Part number|FieldType=0|ParameterName=Part number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
