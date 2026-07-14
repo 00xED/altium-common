@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Work\PROJECTS\Stimulation\Hard\StimulatorPC2\altium-common\lib\parts_db\parts.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\Zotin\Desktop\work\_Current tasks\power_board\altium-commmon-library\lib\parts_db\parts.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=2
 RemoveMode=1
 UpdateMode=2
@@ -200,6 +200,9 @@ TableName=capacitors_trimmer$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=133|Library Ref0=99|Footprint Path0=228|Footprint Ref0=92|Description0=192|Part number0=86|Manufacturer0=93|Alternative0=78|Value0=52|Units0=50|Tolerance0=73|Voltage0=63|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=122|gost BOM0=122
 [Table31]
 SchemaName=
 TableName=connector_custom$
@@ -212,6 +215,9 @@ TableName=connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part number0=124|Library Path0=180|Library Ref0=124|Footprint Path0=277|Footprint Ref0=109|Description0=291|Manufacturer0=93|Alternative0=106|Type0=98|U0=31|I0=26|FREQ0=50|Pins0=44|Pitch0=48|Plating0=59|Flammability0=87|Tmin0=48|Tmax0=49|System 0=62|ComponentLink1Description0=170|ComponentLink1URL0=313|TU0=37|gost BOM0=150|Component Note0=139|Note0=48
 [Table33]
 SchemaName=
 TableName=connectors_IDC$
