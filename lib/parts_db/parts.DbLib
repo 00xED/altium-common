@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\repos\registim
 AddMode=2
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -80,27 +80,18 @@ TableName=IC_current_sense_amplifiers$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=118|Library Ref0=82|Footprint Path0=287|Footprint Ref0=128|Description0=498|Part number0=86|Manufacturer0=100|Alternative0=81|Package0=65|Gain0=47|FREQ0=50|Noise0=72|Channels0=71|Common-mode range0=135|Voltage0=63|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|gost BOM0=177|Component Note0=112|Note0=48
 [Table11]
 SchemaName=
 TableName=IC_dc_dc$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=107|Library Path0=143|Library Ref0=91|Footprint Path0=282|Footprint Ref0=125|Description0=518|Manufacturer0=100|Alternative0=78|Package0=91|Type0=126|Vimin0=52|Vimax0=53|VO0=180|Current0=371|Power0=55|K0=60|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|TU0=37|Component Note0=112|gost BOM0=202|Note0=48
 [Table12]
 SchemaName=
 TableName=IC_digital_multiplexers$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=106|Library Ref0=77|Footprint Path0=280|Footprint Ref0=123|Description0=470|Part number0=99|Manufacturer0=100|Alternative0=78|Package0=65|Structure0=70|Voltage0=63|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|gost BOM0=194|Component Note0=112|Note0=48
 [Table13]
 SchemaName=
 TableName=IC_drivers$
@@ -155,9 +146,6 @@ TableName=IC_power_management$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=121|Library Ref0=85|Footprint Path0=288|Footprint Ref0=126|Description0=621|Part number0=105|Manufacturer0=100|Alternative0=78|Package0=84|Type0=384|Modes0=127|Vimin0=52|Vimax0=53|Input current0=91|Charge current0=100|Charge voltage0=101|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=348|TU0=37|Component Note0=112|gost BOM0=200|Note0=48
 [Table22]
 SchemaName=
 TableName=IC_shift_registers$
@@ -226,7 +214,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=124|Library Path0=180|Library Ref0=124|Footprint Path0=277|Footprint Ref0=109|Description0=291|Manufacturer0=93|Alternative0=106|Type0=98|U0=31|I0=26|FREQ0=50|Pins0=44|Pitch0=48|Plating0=59|Flammability0=87|Tmin0=48|Tmax0=49|System 0=62|ComponentLink1Description0=170|ComponentLink1URL0=313|TU0=37|gost BOM0=150|Component Note0=139|Note0=48
+BrowserOrder_Visible=Part number0=143|Library Path0=180|Library Ref0=124|Footprint Path0=277|Footprint Ref0=109|Description0=291|Manufacturer0=93|Alternative0=106|Type0=98|U0=31|I0=26|FREQ0=50|Pins0=44|Pitch0=48|Plating0=59|Flammability0=87|Tmin0=48|Tmax0=49|System 0=62|ComponentLink1Description0=170|ComponentLink1URL0=313|TU0=37|gost BOM0=186|Component Note0=139|Note0=48
 [Table33]
 SchemaName=
 TableName=connectors_IDC$
