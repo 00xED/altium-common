@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\Zotin\De
 AddMode=2
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=accelerometers$
+LastFocusedTable=connectors$
 [Table1]
 SchemaName=
 TableName=DC-DC_power_modules$
@@ -200,9 +200,6 @@ TableName=capacitors_trimmer$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=133|Library Ref0=99|Footprint Path0=228|Footprint Ref0=92|Description0=192|Part number0=86|Manufacturer0=93|Alternative0=78|Value0=52|Units0=50|Tolerance0=73|Voltage0=63|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=122|gost BOM0=122
 [Table31]
 SchemaName=
 TableName=connector_custom$
@@ -290,6 +287,9 @@ TableName=jumpers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=113|Library Ref0=77|Footprint Path0=233|Footprint Ref0=105|Description0=82|Part number0=96|Manufacturer0=93|Alternative0=78|gost BOM0=114|Component Note0=112|Note0=48
 [Table45]
 SchemaName=
 TableName=mechanical_switches$
