@@ -19,7 +19,7 @@ LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=IC_LDO$
+LastFocusedTable=connectors$
 [Table1]
 SchemaName=
 TableName=DC-DC_power_modules$
@@ -290,6 +290,9 @@ TableName=jumpers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=113|Library Ref0=77|Footprint Path0=233|Footprint Ref0=105|Description0=82|Part number0=96|Manufacturer0=93|Alternative0=78|gost BOM0=114|Component Note0=112|Note0=48
 [Table45]
 SchemaName=
 TableName=mechanical_switches$
