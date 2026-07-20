@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Work\PROJECTS\Stimulation\Hard\StimulatorPC2\altium-common\lib\parts_db\parts.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\repos\registim-v2\registim-reg-v2\altium-common\lib\parts_db\parts.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=2
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=IC_DAC$
+LastFocusedTable=connectors$
 [Table1]
 SchemaName=
 TableName=DC-DC_power_modules$
@@ -53,6 +53,9 @@ TableName=IC_LDO$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part number0=122|Library Path0=157|Library Ref0=121|Footprint Path0=281|Footprint Ref0=125|Description0=609|Manufacturer0=100|Alternative0=78|Package0=79|Vin0=40|VinMax0=61|Vout0=66|Iout0=48|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=112|gost BOM0=217|TU0=37|Note0=48
 [Table6]
 SchemaName=
 TableName=IC_MCU$
@@ -173,6 +176,9 @@ TableName=accelerometers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=95|Library Ref0=77|Footprint Path0=210|Footprint Ref0=92|Description0=525|Part number0=86|Component Note0=112|Note0=271
 [Table26]
 SchemaName=
 TableName=battery_holders$
@@ -287,6 +293,9 @@ TableName=jumpers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=113|Library Ref0=77|Footprint Path0=233|Footprint Ref0=105|Description0=82|Part number0=96|Manufacturer0=93|Alternative0=78|gost BOM0=114|Component Note0=112|Note0=48
 [Table45]
 SchemaName=
 TableName=mechanical_switches$
