@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\repos\registim-v2\registim-reg-v2\altium-common\lib\parts_db\parts.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\prohnyh\Multiplexor\Multiplexor\altium\lib\parts_db\parts.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=2
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=..\footprints;..\symbols;..\step
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=connectors$
+LastFocusedTable=diodes_ESD$
 [Table1]
 SchemaName=
 TableName=DC-DC_power_modules$
@@ -44,18 +44,12 @@ TableName=IC_DAC$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=89|Library Path0=120|Library Ref0=87|Footprint Path0=333|Footprint Ref0=177|Description0=470|Manufacturer0=93|Alternative0=78|Package0=72|Resolution bits0=101|Channels0=90|Data rate0=70|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|gost BOM0=170|Component Note0=112|Note0=48
 [Table5]
 SchemaName=
 TableName=IC_LDO$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part number0=122|Library Path0=157|Library Ref0=121|Footprint Path0=281|Footprint Ref0=125|Description0=609|Manufacturer0=100|Alternative0=78|Package0=79|Vin0=40|VinMax0=61|Vout0=66|Iout0=48|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=112|gost BOM0=217|TU0=37|Note0=48
 [Table6]
 SchemaName=
 TableName=IC_MCU$
@@ -176,9 +170,6 @@ TableName=accelerometers$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=95|Library Ref0=77|Footprint Path0=210|Footprint Ref0=92|Description0=525|Part number0=86|Component Note0=112|Note0=271
 [Table26]
 SchemaName=
 TableName=battery_holders$
@@ -227,6 +218,9 @@ TableName=connectors_IDC$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=130|Library Ref0=95|Footprint Path0=165|Part number0=112|Footprint Ref 10=112|Value0=52|Comment0=128|Mfr0=48
 [Table34]
 SchemaName=
 TableName=devboards$
@@ -245,6 +239,9 @@ TableName=diodes_ESD$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=169|Library Ref0=133|Footprint Path0=269|Footprint Ref0=107|Part number0=86|Description0=295|Manufacturer0=93|Alternative0=174|Package0=65|Diodes in Pack0=98|Voltage0=63|Vbr0=41|Current0=62|Power0=55|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=112|gost BOM0=173|TU0=37|Note0=48
 [Table37]
 SchemaName=
 TableName=diodes_schottky$
@@ -293,9 +290,6 @@ TableName=jumpers$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Path0=113|Library Ref0=77|Footprint Path0=233|Footprint Ref0=105|Description0=82|Part number0=96|Manufacturer0=93|Alternative0=78|gost BOM0=114|Component Note0=112|Note0=48
 [Table45]
 SchemaName=
 TableName=mechanical_switches$
