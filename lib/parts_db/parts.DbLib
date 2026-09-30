@@ -218,6 +218,9 @@ TableName=connectors_IDC$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=130|Library Ref0=95|Footprint Path0=165|Part number0=112|Footprint Ref 10=112|Value0=52|Comment0=128|Mfr0=48
 [Table34]
 SchemaName=
 TableName=devboards$
@@ -236,6 +239,9 @@ TableName=diodes_ESD$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=169|Library Ref0=133|Footprint Path0=269|Footprint Ref0=107|Part number0=86|Description0=295|Manufacturer0=93|Alternative0=174|Package0=65|Diodes in Pack0=98|Voltage0=63|Vbr0=41|Current0=62|Power0=55|Tmin0=48|Tmax0=49|ComponentLink1Description0=170|ComponentLink1URL0=271|Component Note0=112|gost BOM0=173|TU0=37|Note0=48
 [Table37]
 SchemaName=
 TableName=diodes_schottky$
